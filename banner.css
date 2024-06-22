@@ -1,3 +1,4 @@
+/* Style for the banner */
 .banner {
   display: flex;
   justify-content: center;
@@ -7,7 +8,35 @@
   background-color: #f5f5f5; /* Adjust background color as needed */
 }
 
+/* Style for the banner image */
 .banner-image {
   max-width: 100%;
   height: auto;
+}
+
+/* Style for the masterhead */
+.masterhead {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.masterhead img {
+  width: 100%;
+  max-width: 800px; /* Adjust the maximum width as needed */
+  height: auto;
+  border-radius: 10px; /* Add border radius if desired */
+}
+
+.masterhead h1, .masterhead h3 {
+  margin: 10px 0;
+}
+
+.masterhead h1 {
+  font-size: 2.5em; /* Adjust the font size as needed */
+  color: #333; /* Adjust the text color as needed */
+}
+
+.masterhead h3 {
+  font-size: 1.5em; /* Adjust the font size as needed */
+  color: #777; /* Adjust the text color as needed */
 }
