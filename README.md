@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anuragvisioner/anuragvisioner/file:///C:/Users/hp/Downloads/github-header-image.png" alt="MasterHead">
+  <img src="https://github.com/anuragvisioner/anuragvisioner/blob/main/github-header-image.png" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
