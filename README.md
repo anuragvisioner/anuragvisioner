@@ -1,35 +1,37 @@
 <!-- Masterhead section -->
-<p class="masterhead">
+<p class="masterhead center">
   <img src="https://github.com/anuragvisioner/anuragvisioner/blob/main/github-header-image.png" alt="MasterHead">
   <h1>Hi 👋, I'm Anurag Sharma</h1>
   <h3>A passionate Full-Stack Developer and Programmer from India</h3>
 </p>
 
 <!-- Coding GIF section -->
-<p align="center">
+<p class="center">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
 
 <!-- Profile views -->
-<p align="left">
+<p class="center">
   <img src="https://komarev.com/ghpvc/?username=anuragvisioner&label=Profile%20views&color=0e75b6&style=flat" alt="anuragvisioner" />
 </p>
 
-- 🌱 I’m currently learning **React**
+<div class="center">
+  - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anuragvisioner/PORTFOLIO](https://github.com/anuragvisioner/PORTFOLIO)
+  - 👨‍💻 All of my projects are available at [https://github.com/anuragvisioner/PORTFOLIO](https://github.com/anuragvisioner/PORTFOLIO)
 
-- 💬 Ask me about **Problem Solving**
+  - 💬 Ask me about **Problem Solving**
 
-- 📫 How to reach me **anuragsharmapdf@gmail.com**
+  - 📫 How to reach me **anuragsharmapdf@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 class="center">Connect with me:</h3>
+<p class="center">
   <!-- Add your social media links here -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 class="center">Languages and Tools:</h3>
+<p class="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -71,6 +73,6 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragvisioner&show_icons=true&locale=en&layout=compact" alt="anuragvisioner" /></p>
+<p class="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragvisioner&show_icons=true&locale=en&layout=compact" alt="anuragvisioner" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvisioner&" alt="anuragvisioner" /></p>
+<p class="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvisioner&" alt="anuragvisioner" /></p>
