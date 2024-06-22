@@ -70,6 +70,7 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragvisioner&show_icons=true&locale=en&layout=compact" alt="anuragvisioner" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvisioner&" alt="anuragvisioner" /></p>
+<div class="stats-container">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragvisioner&show_icons=true&locale=en&layout=compact" alt="anuragvisioner" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvisioner&" alt="anuragvisioner" />
+  </div>
