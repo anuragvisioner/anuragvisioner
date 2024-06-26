@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://github.com/anuragvisioner/anuragvisioner/blob/main/github-header-image.png" alt="MasterHead">
-</p>
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Anurag Sharma <img src="https://raw.githubusercontent.com/arupmandal/arupmandal/master/gifs/Hi.gif" width="30px"> ! </h1>
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
-
-<h1 align="center">Hi 👋, I'm Anurag Sharma</h1>
 <h3 align="center">A passionate Full-Stack Developer and Programmer from India</h3>
 
 <p align="center">
@@ -25,6 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/anuragvisioner" target="blank"><img src="https://img.shields.io/twitter/follow/anuragvisioner?logo=twitter&style=for-the-badge" alt="anuragvisioner;" /></a>&nbsp
+<a href="https://www.linkedin.com/in/anuragvisioner"><img src="https://img.shields.io/badge/-anuragvisioner-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://anuragvisioner.github.io/" target="_blank"><img src="https://img.shields.io/website?label=anuragvisioner.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="anuragvisioner.github.io" /></a>&nbsp
+<a href="mailto:anuragsharmapdf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anuragsharmapdf@gmail.com" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -71,6 +72,10 @@
 </p>
 
 <div class="stats-container">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragvisioner&show_icons=true&locale=en&layout=compact" alt="anuragvisioner" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvisioner&" alt="anuragvisioner" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragvisioner&show_icons=true&locale=en&layout=compact" alt="anuragvisioner" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragvisioner&" alt="anuragvisioner" />
+</div>
+
+
+
+
