@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuragvisioner" target="blank"><img src="https://img.shields.io/twitter/follow/anuragvisioner?logo=twitter&style=for-the-badge" alt="anuragvisioner;" /></a>&nbsp
-<a href="https://www.linkedin.com/in/anuragvisioner"><img src="https://img.shields.io/badge/-anuragvisioner-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://twitter.com/anuragsharma" target="blank"><img src="https://img.shields.io/twitter/follow/anuragsharma?logo=twitter&style=for-the-badge" alt="anuragsharma;" /></a>&nbsp
+<a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin"><img src="https://img.shields.io/badge/-anuragsharma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://anuragvisioner.github.io/" target="_blank"><img src="https://img.shields.io/website?label=anuragvisioner.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="anuragvisioner.github.io" /></a>&nbsp
 <a href="mailto:anuragsharmapdf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anuragsharmapdf@gmail.com" /></a>
 </p>
