@@ -1,5 +1,5 @@
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Anurag Sharma <img src="https://raw.githubusercontent.com/arupmandal/arupmandal/master/gifs/Hi.gif" width="30px"> ! </h1>
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header image.png"/>
+<img src="header image.png"/>
 
 
 <h3 align="center">A passionate Full-Stack Developer and Programmer from India</h3>
