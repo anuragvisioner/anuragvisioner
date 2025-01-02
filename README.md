@@ -1,8 +1,8 @@
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Anurag Sharma <img src="https://raw.githubusercontent.com/arupmandal/arupmandal/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> I am Anurag Sharma <img src="https://raw.githubusercontent.com/arupmandal/arupmandal/master/gifs/Hi.gif" width="30px"> ! </h1>
 <img src="header image.png"/>
 
 
-<h3 align="center">A passionate Full-Stack Developer and Programmer from India</h3>
+<h3 align="center">A passionate Engineering Student from India</h3>
 
 <p align="center">
   <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
